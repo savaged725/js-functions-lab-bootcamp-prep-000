@@ -1,7 +1,7 @@
 // write your code below!
 function happyHolidays () {
   if (happyHolidays)
-  return "Happy Holidays!" 
+  return; "Happy Holidays!" 
 }
   
 
