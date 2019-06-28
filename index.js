@@ -1,6 +1,6 @@
 // write your code below!
-function happyHolidays (happyHolidays) {
-  if (x=happyHolidays)
+function happyHolidays () {
+  if (happyHolidays)
   return; "Happy Holidays!" 
 }
   
